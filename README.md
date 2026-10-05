@@ -5,14 +5,14 @@ This project analyzes historical retail sales data and builds a monthly sales fo
 
 The project uses the Superstore retail dataset and follows a complete machine-learning/time-series workflow:
 
-Data loading and inspection
-Data cleaning and validation
-Monthly sales aggregation
-Exploratory analysis and visualization
-Time-series decomposition
-Feature engineering
-Model training
-Model comparison
-Forecast error analysis
-12-month future sales forecasting
+Data loading and inspection,
+Data cleaning and validation, 
+Monthly sales aggregation, 
+Exploratory analysis and visualization,
+Time-series decomposition,
+Feature engineering,
+Model training,
+Model comparison,
+Forecast error analysis,
+12-month future sales forecasting,
 Business recommendations
